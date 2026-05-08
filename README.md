@@ -9,6 +9,8 @@
 
 **Ecovacs CN Domestic** (`ecovacs_cn`) is a custom Home Assistant integration developed for **domestic (Mainlain China-region) Ecovacs cleaning robots**.
 
+https://mcp-open.ecovacs.cn/sse?ak=your ak
+
 ## 🤔 Why this exists?
 
 If you bought your Ecovacs robot in China or it is a specific domestic model, you likely found that the standard Home Assistant Ecovacs integration does not work. This could be due to differences in servers and protocols between the Oversea and Chinese versions.
