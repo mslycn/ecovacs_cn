@@ -1,5 +1,5 @@
 
-way 1.
+## way 1. 找一个类似的扫地机型号接入进来
 
 # 从 Home Assistant 控制台登录，获得 shell 环境后执行以下命令
 
@@ -29,3 +29,9 @@ ln -svfT x5d34r.py lhbd50.py
 # Step 5: 重启 Home Assistant 以使更改生效
 restart home assistant
 # 通过重启让新的符号链接及代码修改生效
+
+## way 2. 自写集成，用Offical Ecovacs mcp server接入Home Assistant
+
+举例：https://github.com/mslycn/ecovacs_cn
+
+## way 3. 自写集成，用Offical Ecovacs skill server api接入Home Assistant
